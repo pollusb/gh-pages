@@ -3,7 +3,7 @@
     <title>CafeSql</title>
     <link href="https://pollusb.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://pollusb.github.io/gh-pages" />
-    <updated>2023-03-16T21:36:09-04:00</updated>
+    <updated>2023-03-16T23:28:36-04:00</updated>
     <author>
         <name>Pollus</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://pollusb.github.io/gh-pages/how-to-improve-t-sql-query-performance.html</id>
             <category term="sqlserver"/>
 
-        <updated>2023-03-16T21:36:09-04:00</updated>
+        <updated>2023-03-16T23:28:36-04:00</updated>
             <summary>
                 <![CDATA[
                     T-SQL (Transact-SQL) is a dialect of SQL that is used to interact with Microsoft SQL Server databases. It allows you to write queries that can manipulate data, create tables, views, stored procedures, functions, triggers and more. However, writing efficient and performant T-SQL queries can be&hellip;
