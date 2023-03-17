@@ -3,7 +3,7 @@
     <title>CafeSql</title>
     <link href="https://pollusb.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://pollusb.github.io/gh-pages" />
-    <updated>2023-03-16T23:28:36-04:00</updated>
+    <updated>2023-03-17T18:21:51-04:00</updated>
     <author>
         <name>Pollus</name>
     </author>
@@ -16,16 +16,19 @@
         </author>
         <link href="https://pollusb.github.io/gh-pages/how-to-improve-t-sql-query-performance.html"/>
         <id>https://pollusb.github.io/gh-pages/how-to-improve-t-sql-query-performance.html</id>
+        <media:content url="https://pollusb.github.io/gh-pages/media/posts/1/LinkedIn-background.jpg" medium="image" />
             <category term="sqlserver"/>
 
-        <updated>2023-03-16T23:28:36-04:00</updated>
+        <updated>2023-03-17T18:21:51-04:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://pollusb.github.io/gh-pages/media/posts/1/LinkedIn-background.jpg" alt="" />
                     T-SQL (Transact-SQL) is a dialect of SQL that is used to interact with Microsoft SQL Server databases. It allows you to write queries that can manipulate data, create tables, views, stored procedures, functions, triggers and more. However, writing efficient and performant T-SQL queries can be&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://pollusb.github.io/gh-pages/media/posts/1/LinkedIn-background.jpg" class="type:primaryImage" alt="" /></p>
                 <p>T-SQL (Transact-SQL) is a dialect of SQL that is used to interact with Microsoft SQL Server databases. It allows you to write queries that can manipulate data, create tables, views, stored procedures, functions, triggers and more. However, writing efficient and performant T-SQL queries can be challenging and requires some knowledge and skills. In this blog post, I will share some tips and best practices on how to optimize your T-SQL queries and improve their performance.</p>
 <h2 id="1-use-indexes-wisely">1. Use indexes wisely</h2>
 <p>An index is a data structure that helps SQL Server find data faster by organizing it in a sorted order. Indexes can speed up your queries by reducing the number of pages that need to be scanned or read from disk. However, indexes also have some drawbacks: they consume disk space, they need to be maintained when data changes (which can cause overhead), and they can affect the performance of insert, update and delete operations.</p>
